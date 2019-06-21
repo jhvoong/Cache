@@ -1,0 +1,11 @@
+*.d
+*.o
+*.out
+*.txt
+vgcore*
+*.a
+.*swp
+.nfs*
+*.bundle
+*.sh
+core
